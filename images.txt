@@ -7,3 +7,4 @@ chishin/nginx-proxy-manager-zh
 nginx
 ubuntu/squid
 qinglong
+qinglong:debian
